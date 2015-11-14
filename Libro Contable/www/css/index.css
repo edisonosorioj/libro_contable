@@ -74,7 +74,7 @@ body {
     left:50%;
     top:20%;
     height:50px;                   /* text area height */
-    width:225px;                   /* text area width */
+    width:200px;                   /* text area width */
     text-align:center;
     padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
     margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
@@ -135,6 +135,24 @@ h2 {
     -webkit-animation:fade 3000ms infinite;
 }
 
-form div input{
-    margin-bottom: 10px
+.boton{
+    background: #4B946A;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
 }
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
